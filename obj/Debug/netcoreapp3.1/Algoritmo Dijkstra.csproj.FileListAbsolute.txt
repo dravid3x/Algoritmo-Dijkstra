@@ -1,0 +1,13 @@
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\bin\Debug\netcoreapp3.1\Algoritmo Dijkstra.exe
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\bin\Debug\netcoreapp3.1\Algoritmo Dijkstra.deps.json
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\bin\Debug\netcoreapp3.1\Algoritmo Dijkstra.runtimeconfig.json
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\bin\Debug\netcoreapp3.1\Algoritmo Dijkstra.runtimeconfig.dev.json
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\bin\Debug\netcoreapp3.1\Algoritmo Dijkstra.dll
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\bin\Debug\netcoreapp3.1\Algoritmo Dijkstra.pdb
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\obj\Debug\netcoreapp3.1\Algoritmo Dijkstra.csprojAssemblyReference.cache
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\obj\Debug\netcoreapp3.1\Algoritmo Dijkstra.AssemblyInfoInputs.cache
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\obj\Debug\netcoreapp3.1\Algoritmo Dijkstra.AssemblyInfo.cs
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\obj\Debug\netcoreapp3.1\Algoritmo Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\obj\Debug\netcoreapp3.1\Algoritmo Dijkstra.dll
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\obj\Debug\netcoreapp3.1\Algoritmo Dijkstra.pdb
+C:\Users\dadol\OneDrive\Scuola\Sistemi\lab sistemi\Programmazione\Algoritmo Dijkstra\Algoritmo Dijkstra\obj\Debug\netcoreapp3.1\Algoritmo Dijkstra.genruntimeconfig.cache
